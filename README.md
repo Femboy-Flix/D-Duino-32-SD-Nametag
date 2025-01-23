@@ -1,6 +1,4 @@
-Here is the English version of the README:
 
----
 
 # README
 
