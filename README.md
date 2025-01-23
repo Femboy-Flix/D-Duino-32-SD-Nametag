@@ -83,7 +83,7 @@ This project demonstrates how to display various modes on an OLED screen using t
 - **No Display**: Check the I2C connections (SDA and SCL).
 - **NeoPixel Not Lighting**: Ensure the LED is connected to GPIO 18 and the power supply is sufficient.
 - **Button Issues**: Confirm correct wiring and pull-up resistor configuration.
-
+- **General help for D-Duino-32** [this github repo](https://docs.micropython.org/en/latest/esp32/tutorial/intro.html)
 ---
 
 ### License
