@@ -76,7 +76,8 @@ This project demonstrates how to display various modes on an OLED screen using t
    - **Mode 2**: Draws the text "FELIX" in a custom font.
    - **Mode 3**: Draws a smiley face.
    - **Mode 4**: Displays personal text information.
-
+4. if you want to use the on bord led look at the LED-Stuff
+   - **color**: Red,Blue,Green,Pink are predefined
 ---
 
 ### Troubleshooting
