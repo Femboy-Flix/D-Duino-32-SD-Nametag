@@ -145,12 +145,12 @@ def WEB():
     oled.line(1, 32, 128, 32, 1)  # Horizontale Linie
 ######################################################################
 def TXT():
-    oled.text("FemboyFlix-Felix", 1, 1)
-    oled.text("Hi 17 jo Hobbys:", 1, 12)
-    oled.text("Foto,Video,codes", 1, 22)
-    oled.text("crossdress,sleep", 1, 32)
-    oled.text("sexuality : GAY", 1, 42)
-    oled.text("just a Femboy", 1, 52)
+    oled.text("FemboyFlix uwu", 1, 1)
+    oled.text("your text ", 1, 12)
+    oled.text("your text", 1, 22)
+    oled.text("your text", 1, 32)
+    oled.text("your text", 1, 42)
+    oled.text("your text", 1, 52)
 ###################################################################
 
 
