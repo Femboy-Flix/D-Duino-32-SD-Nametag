@@ -58,7 +58,7 @@ This project demonstrates how to display various modes on an OLED screen using t
 | Button Up         | GPIO 32   |
 | Button Down       | GPIO 25   |
 | Button Select     | GPIO 33   |
-| Button 5 (LED)    | GPIO 5    |
+| Button 5          | GPIO 5    |
 | NeoPixel LED      | GPIO 18   |
 
 ---
