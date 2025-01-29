@@ -48,6 +48,8 @@ This project demonstrates how to display various modes on an OLED screen using t
 2. Connect your DSTIKE D-Duino-32 to your computer via USB.
 3. Click **Run** > **Upload current script as main script** to save the file on the ESP32.
 
+#### 5. Cange the Code
+if you want to cange the information the display show askt chat-gpt about writ your name on a 64-128 display via line and dot gaphics and copy past the generaded code 
 ---
 
 ### Wiring Diagram
@@ -76,7 +78,7 @@ This project demonstrates how to display various modes on an OLED screen using t
    - **Mode 2**: Draws the text "FELIX" in a custom font.
    - **Mode 3**: Draws a smiley face.
    - **Mode 4**: Displays personal text information.
-4. if you want to use the on bord led look at the LED-Stuff
+4. if you want to use the on bord LED look at the LED-Stuff
    - **color**: Red,Blue,Green,Pink are predefined
 ---
 
