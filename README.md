@@ -49,7 +49,7 @@ This project demonstrates how to display various modes on an OLED screen using t
 3. Click **Run** > **Upload current script as main script** to save the file on the ESP32.
 
 #### 5. Cange the Code
-if you want to cange the information the display show askt chat-gpt about writ your name on a 64-128 display via line and dot gaphics and copy past the generaded code 
+- if you want to cange the information the display show askt chat-gpt about writ your name on a 64-128 display via line and dot gaphics and copy past the generaded code 
 ---
 
 ### Wiring Diagram
